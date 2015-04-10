@@ -9,6 +9,9 @@ The development platform of [metaSEM](https://courses.nus.edu.sg/course/psycwlm/
 
 The `metaSEM` package can be installed via the `devtools` package in `R`.
 
+        ## Install OpenMx
+        source('http://openmx.psyc.virginia.edu/getOpenMx.R')
+                
         library(devtools)
         
         ## Install metaSEM from GitHub
