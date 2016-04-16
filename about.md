@@ -4,6 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Dr. [Mike Cheung](https://courses.nus.edu.sg/course/psycwlm/Internet/) is an associate professor at [Department of Psychology](http://www.fas.nus.edu.sg/psy/), [National University of Singapore](http://www.nus.edu.sg/). His research expertise is in the areas of meta-analysis, structural equation modeling, and multilevel modeling. He has published more than 40 papers in international journals and one book titled [Meta-Analysis: A Structural Equation Modeling Approach](http://www.amazon.com/dp/1119993431). He is in the editorial board of [*Psychological Methods*](http://www.apa.org/pubs/journals/met/), and [*Research Synthesis Methods*](http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291759-2887), and [an associate editor](http://loop.frontiersin.org/people/8270/bio) of [Frontiers in Psychology (Quantitative Psychology and Measurement)](http://www.frontiersin.org/Quantitative_Psychology_and_Measurement), and [a special issue editor](https://dl.dropboxusercontent.com/u/25182759/callforpapers.pdf) for *Research Synthesis Methods*. 
+I am a quantitative psychologist and an associate professor at [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of [National University of Singapore](http://www.nus.edu.sg/) (see [my curriculum vitae](https://dl.dropbox.com/u/25182759/mike_CV.pdf) and [Research Interview](http://www.fas.nus.edu.sg/research/aermikecheung.html)).
 
+**Contact information**:
 
+* ![](./images/note.gif) Department of Psychology, Faculty of Arts and Social Sciences, National University of Singapore, Singapore 117570
+* ![](./images/mailbox.gif) mikewlcheung (at) nus.edu.sg
+-   [What I am busy doing now&#x2026; (GitHub)](http://mikewlcheung.github.io/)
+-   [ResearcherID](http://www.researcherid.com/rid/B-9914-2008)
+-   [Google Scholar](http://scholar.google.com.sg/citations?user=kuTjTlsAAAAJ)
+-   [ResearchGate](https://www.researchgate.net/profile/Mike_Cheung2)
+-   [Academia](http://nus.academia.edu/MikeCheung)
+-   [Microsoft Academic Search](http://academic.research.microsoft.com/Author/23589450/mike-w-l-cheung)
+-   [Mendeley](http://www.mendeley.com/profiles/mike-cheung/)
+-   [StackExchange](http://stats.stackexchange.com/users/25367/mike-cheung)
+-   [OpenMx](http://openmx.psyc.virginia.edu/users/mike-cheung/track)
+-   [Meta-analysis resources](http://meta-analysis.ning.com/profile/MikeCheung)
