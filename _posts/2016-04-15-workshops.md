@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I am busy doing now..."
+title:  "Workshops in summer"
 date:   2016-04-15 12:00:00
 categories: [schedule]
 ---

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Cheung's website</title>
-    <description>This is Mike Cheung's website and blog in Github.
-</description>
+    <title>Mike Cheung&#39;s website</title>
+    <description></description>
     <link>http://mikewlcheung.github.io/</link>
     <atom:link href="http://mikewlcheung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Apr 2016 12:27:56 +0800</pubDate>
-    <lastBuildDate>Sat, 16 Apr 2016 12:27:56 +0800</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 04 Aug 2016 21:46:40 +0800</pubDate>
+    <lastBuildDate>Thu, 04 Aug 2016 21:46:40 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>What I am busy doing now...</title>
+        <title>Workshops in summer</title>
         <description>&lt;h1 id=&quot;workshops&quot;&gt;Workshops&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;I will give a two-day workshop on &lt;em&gt;analysis of missing data&lt;/em&gt; on 23-24 May 2016 at &lt;a href=&quot;http://lkyspp.nus.edu.sg/&quot;&gt;the Institute of Policy Studies, Lee Kuan Yew School of Public Policy, NUS&lt;/a&gt;.&lt;/li&gt;
@@ -19,8 +18,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 15 Apr 2016 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/schedule/2016/04/15/busy.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2016/04/15/busy.html</guid>
+        <link>http://mikewlcheung.github.io/schedule/2016/04/15/workshops.html</link>
+        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2016/04/15/workshops.html</guid>
         
         
         <category>schedule</category>
@@ -41,9 +40,9 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2016/04/15/inpress2.html</guid>
         
         
-        <category>masem</category>
+        <category>MASEM</category>
         
-        <category>metasem package</category>
+        <category>metaSEM package</category>
         
       </item>
     
@@ -59,9 +58,9 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2015/07/25/inpress1.html</guid>
         
         
-        <category>masem</category>
+        <category>MASEM</category>
         
-        <category>metasem package</category>
+        <category>metaSEM package</category>
         
       </item>
     
@@ -69,19 +68,20 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <title>The metaSEM package is now available at CRAN</title>
         <description>&lt;p&gt;The &lt;a href=&quot;https://courses.nus.edu.sg/course/psycwlm/internet/metaSEM/&quot;&gt;metaSEM&lt;/a&gt; package is now available at &lt;a href=&quot;http://cran.r-project.org/package=metaSEM&quot;&gt;CRAN&lt;/a&gt;. It can be installed by running:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    install.packages(&quot;metaSEM&quot;)
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    install.packages(&quot;metaSEM&quot;)
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Jun 2015 17:35:00 +0800</pubDate>
         <link>http://mikewlcheung.github.io/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</link>
         <guid isPermaLink="true">http://mikewlcheung.github.io/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</guid>
         
         
-        <category>r</category>
+        <category>R</category>
         
-        <category>metasem package</category>
+        <category>metaSEM package</category>
         
-        <category>cran</category>
+        <category>CRAN</category>
         
       </item>
     
@@ -89,27 +89,28 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <title>The metaSEM package moved to GitHub</title>
         <description>&lt;p&gt;The development platform of &lt;a href=&quot;https://courses.nus.edu.sg/course/psycwlm/internet/metaSEM/&quot;&gt;metaSEM&lt;/a&gt; has just been migrated from &lt;a href=&quot;http://r-forge.r-project.org/projects/metasem/&quot;&gt;R-forge&lt;/a&gt; to &lt;a href=&quot;https://github.com/mikewlcheung/metasem&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The &lt;code&gt;metaSEM&lt;/code&gt; package can be installed via the &lt;code&gt;devtools&lt;/code&gt; package in &lt;code&gt;R&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;metaSEM&lt;/code&gt; package can be installed via the &lt;code class=&quot;highlighter-rouge&quot;&gt;devtools&lt;/code&gt; package in &lt;code class=&quot;highlighter-rouge&quot;&gt;R&lt;/code&gt;.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    ## Install OpenMx
-    source('http://openmx.psyc.virginia.edu/getOpenMx.R')
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    ## Install OpenMx
+    source(&#39;http://openmx.psyc.virginia.edu/getOpenMx.R&#39;)
             
     library(devtools)
     
     ## Install metaSEM from GitHub
     install_github(&quot;mikewlcheung/metasem&quot;)
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Apr 2015 18:30:00 +0800</pubDate>
         <link>http://mikewlcheung.github.io/r/metasem%20package/github/2015/04/10/metaSEM_github.html</link>
         <guid isPermaLink="true">http://mikewlcheung.github.io/r/metasem%20package/github/2015/04/10/metaSEM_github.html</guid>
         
         
-        <category>r</category>
+        <category>R</category>
         
-        <category>metasem package</category>
+        <category>metaSEM package</category>
         
-        <category>github</category>
+        <category>GitHub</category>
         
       </item>
     

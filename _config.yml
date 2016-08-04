@@ -2,10 +2,10 @@
 title: Mike Cheung's website
 email: mikewlcheung@nus.edu.sg
 description: > # this means to ignore newlines until "baseurl:"
-  This is Mike Cheung's website and blog in Github.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mikewlcheung.github.io" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username:
 github_username:  mikewlcheung
 
 # Build settings

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -8,8 +8,8 @@ I am a quantitative psychologist and an associate professor at [Department of Ps
 
 **Contact information**:
 
-* ![](./images/note.gif) Department of Psychology, Faculty of Arts and Social Sciences, National University of Singapore, Singapore 117570
-* ![](./images/mailbox.gif) mikewlcheung (at) nus.edu.sg
+* ![](../images/note.gif) Department of Psychology, Faculty of Arts and Social Sciences, National University of Singapore, Singapore 117570
+* ![](../images/mailbox.gif) mikewlcheung (at) nus.edu.sg
 -   [What I am busy doing now&#x2026; (GitHub)](http://mikewlcheung.github.io/)
 -   [ResearcherID](http://www.researcherid.com/rid/B-9914-2008)
 -   [Google Scholar](http://scholar.google.com.sg/citations?user=kuTjTlsAAAAJ)
