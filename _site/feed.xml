@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Cheung&#39;s website</title>
+    <title>Mike Cheung's website</title>
     <description></description>
-    <link>http://mikewlcheung.github.io/</link>
-    <atom:link href="http://mikewlcheung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Aug 2016 14:22:35 +0800</pubDate>
-    <lastBuildDate>Sat, 13 Aug 2016 14:22:35 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 Oct 2016 11:23:24 +0800</pubDate>
+    <lastBuildDate>Sun, 09 Oct 2016 11:23:24 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>A paper applying three-level meta-analysis in health psychology was published</title>
@@ -17,8 +17,8 @@
 
 </description>
         <pubDate>Sat, 13 Aug 2016 10:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</guid>
+        <link>http://localhost:4000/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</guid>
         
         
         <category>three-level meta-analysis</category>
@@ -36,8 +36,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 15 Apr 2016 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/schedule/2016/04/15/workshops.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2016/04/15/workshops.html</guid>
+        <link>http://localhost:4000/schedule/2016/04/15/workshops.html</link>
+        <guid isPermaLink="true">http://localhost:4000/schedule/2016/04/15/workshops.html</guid>
         
         
         <category>schedule</category>
@@ -54,8 +54,8 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
 
 </description>
         <pubDate>Fri, 15 Apr 2016 19:10:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/masem/metasem%20package/2016/04/15/inpress2.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2016/04/15/inpress2.html</guid>
+        <link>http://localhost:4000/masem/metasem%20package/2016/04/15/inpress2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2016/04/15/inpress2.html</guid>
         
         
         <category>MASEM</category>
@@ -72,8 +72,8 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
 
 </description>
         <pubDate>Sat, 25 Jul 2015 18:36:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/masem/metasem%20package/2015/07/25/inpress1.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2015/07/25/inpress1.html</guid>
+        <link>http://localhost:4000/masem/metasem%20package/2015/07/25/inpress1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2015/07/25/inpress1.html</guid>
         
         
         <category>MASEM</category>
@@ -91,8 +91,8 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 09 Jun 2015 17:35:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</guid>
+        <link>http://localhost:4000/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</link>
+        <guid isPermaLink="true">http://localhost:4000/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</guid>
         
         
         <category>R</category>
@@ -110,7 +110,7 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
 &lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;metaSEM&lt;/code&gt; package can be installed via the &lt;code class=&quot;highlighter-rouge&quot;&gt;devtools&lt;/code&gt; package in &lt;code class=&quot;highlighter-rouge&quot;&gt;R&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    ## Install OpenMx
-    source(&#39;http://openmx.psyc.virginia.edu/getOpenMx.R&#39;)
+    source('http://openmx.psyc.virginia.edu/getOpenMx.R')
             
     library(devtools)
     
@@ -120,8 +120,8 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Apr 2015 18:30:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/r/metasem%20package/github/2015/04/10/metaSEM_github.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/r/metasem%20package/github/2015/04/10/metaSEM_github.html</guid>
+        <link>http://localhost:4000/r/metasem%20package/github/2015/04/10/metaSEM_github.html</link>
+        <guid isPermaLink="true">http://localhost:4000/r/metasem%20package/github/2015/04/10/metaSEM_github.html</guid>
         
         
         <category>R</category>
@@ -140,8 +140,8 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
 
 </description>
         <pubDate>Wed, 08 Apr 2015 01:44:56 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/meta-analysis/structural%20equation%20model/research/publication/2015/04/08/metabook_available.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/meta-analysis/structural%20equation%20model/research/publication/2015/04/08/metabook_available.html</guid>
+        <link>http://localhost:4000/meta-analysis/structural%20equation%20model/research/publication/2015/04/08/metabook_available.html</link>
+        <guid isPermaLink="true">http://localhost:4000/meta-analysis/structural%20equation%20model/research/publication/2015/04/08/metabook_available.html</guid>
         
         
         <category>meta-analysis</category>

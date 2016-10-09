@@ -1,4 +1,4 @@
 mikewlcheung.github.io
 ======================
 
-Website of Mike Cheung
+[Mike Cheung's website in GitHub](http://mikewlcheung.github.io/)
