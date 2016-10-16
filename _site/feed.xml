@@ -5,9 +5,27 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 11:23:24 +0800</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 11:23:24 +0800</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2016 11:32:12 +0800</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2016 11:32:12 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>A paper on meta-analytic structural equation modeling was published</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;A paper titled &lt;em&gt;Testing IB theories with meta-analytic structural equation modeling: The TSSEM approach and the univariate-r approach&lt;/em&gt;, is available online in &lt;a href=&quot;http://www.emeraldinsight.com/doi/abs/10.1108/RIBS-04-2016-0022&quot;&gt;Review of International Business and Strategy&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 15 Oct 2016 19:30:00 +0800</pubDate>
+        <link>http://localhost:4000/masem/metasem%20package/2016/10/15/first_online2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2016/10/15/first_online2.html</guid>
+        
+        
+        <category>MASEM</category>
+        
+        <category>metaSEM package</category>
+        
+      </item>
     
       <item>
         <title>A paper applying three-level meta-analysis in health psychology was published</title>
