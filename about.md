@@ -11,7 +11,9 @@ I am a quantitative psychologist and an associate professor at [Department of Ps
 * ![](../images/note.gif) Department of Psychology, Faculty of Arts and Social Sciences, National University of Singapore, Singapore 117570
 * ![](../images/mailbox.gif) mikewlcheung (at) nus.edu.sg
 -   [What I am busy doing now&#x2026; (GitHub)](http://mikewlcheung.github.io/)
+-   [ORCID](http://orcid.org/0000-0003-0113-0758)
 -   [ResearcherID](http://www.researcherid.com/rid/B-9914-2008)
+-   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7201897549)
 -   [Google Scholar](http://scholar.google.com.sg/citations?user=kuTjTlsAAAAJ)
 -   [ResearchGate](https://www.researchgate.net/profile/Mike_Cheung2)
 -   [Academia](http://nus.academia.edu/MikeCheung)
