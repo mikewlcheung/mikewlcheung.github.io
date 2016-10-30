@@ -5,9 +5,27 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Oct 2016 11:32:12 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Oct 2016 11:32:12 +0800</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 16:34:46 +0800</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 16:34:46 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Another paper on meta-analytic structural equation modeling is accepted for publication</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;A paper titled &lt;a href=&quot;https://dl.dropboxusercontent.com/u/25182759/HPR%20MASEM.pdf&quot;&gt;&lt;em&gt;Applications of Meta-Analytic Structural Equation Modeling in Health Psychology: Examples, Issues, and Recommendations&lt;/em&gt;&lt;/a&gt; is accepted for publication in &lt;em&gt;Health Psychology Review&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 31 Oct 2016 00:36:00 +0800</pubDate>
+        <link>http://localhost:4000/masem/metasem%20package/2016/10/31/inpress3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2016/10/31/inpress3.html</guid>
+        
+        
+        <category>MASEM</category>
+        
+        <category>metaSEM package</category>
+        
+      </item>
     
       <item>
         <title>A paper on meta-analytic structural equation modeling was published</title>
