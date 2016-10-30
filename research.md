@@ -13,6 +13,7 @@ My research interests are quantitative methods, especially in the topics of meta
 * A two-day workshop based on my book: [SEM-based meta-analysis](https://courses.nus.edu.sg/course/psycwlm/internet/MASEMworkshop/slides1.html) and [meta-analytic structural equation model (MASEM)](https://courses.nus.edu.sg/course/psycwlm/internet/MASEMworkshop/slides2.html).
 
 My other research interests are:
+
 * Longitudinal data analysis
 * Mediating and moderating effects
 * Bootstrapping
