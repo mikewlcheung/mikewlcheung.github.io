@@ -5,9 +5,25 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 17:35:20 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 17:35:20 +0800</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2017 17:54:51 +0800</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 17:54:51 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Workshops in 2017 summer</title>
+        <description>&lt;h1 id=&quot;workshops&quot;&gt;Workshops&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I will give three workshops on &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/images/Multilevel_modeling_R_2017.pdf&quot;&gt;Multilevel Modeling with R&lt;/a&gt; on 5-7 June, &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/images/Missing_data_analysis_R_2017.pdf&quot;&gt;Analysis of Missing Data with R&lt;/a&gt; on 12-13 June, and &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/images/Structural_equation_modeling_R_2017.pdf&quot;&gt;Structural Equation Modeling with R&lt;/a&gt; on 17-19 July at &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/schedule.html&quot;&gt;Centre for Family and Population Research, FASS, NUS&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 17 Apr 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/schedule/2017/04/17/workshops.html</link>
+        <guid isPermaLink="true">http://localhost:4000/schedule/2017/04/17/workshops.html</guid>
+        
+        
+        <category>schedule</category>
+        
+      </item>
     
       <item>
         <title>Another paper on meta-analytic structural equation modeling is accepted for publication</title>
@@ -64,7 +80,7 @@
       </item>
     
       <item>
-        <title>Workshops in summer</title>
+        <title>Workshops in 2016 summer</title>
         <description>&lt;h1 id=&quot;workshops&quot;&gt;Workshops&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;I will give a two-day workshop on &lt;em&gt;analysis of missing data&lt;/em&gt; on 23-24 May 2016 at &lt;a href=&quot;http://lkyspp.nus.edu.sg/&quot;&gt;the Institute of Policy Studies, Lee Kuan Yew School of Public Policy, NUS&lt;/a&gt;.&lt;/li&gt;

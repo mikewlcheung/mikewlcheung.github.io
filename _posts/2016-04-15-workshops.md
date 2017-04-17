@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workshops in summer"
+title:  "Workshops in 2016 summer"
 date:   2016-04-15 12:00:00
 categories: [schedule]
 ---
