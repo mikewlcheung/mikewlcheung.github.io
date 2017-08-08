@@ -6,7 +6,8 @@ title: My teaching
 My teaching
 ======================
 
-## Current academic year 2016-2017
+## Current academic year 2017-2018
+* I am on sabbatical leave from Aug to Dec 2017.
 * PL5222 Multivariate Statistics in Psychology (postgraduate)
 * PL5225 Structural Equation Modeling (postgraduate)
 

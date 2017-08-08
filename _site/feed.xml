@@ -5,9 +5,143 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Apr 2017 19:03:56 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Apr 2017 19:03:56 +0800</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2017 10:19:47 +0800</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2017 10:19:47 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Call for papers: Big Data in Psychology: Methods and Applications</title>
+        <description>&lt;h1 id=&quot;big-data-in-psychology-methods-and-applications&quot;&gt;Big Data in Psychology: Methods and Applications&lt;/h1&gt;
+&lt;h2 id=&quot;a-special-issue-of-the-zeitschrift-fr-psychologiehttpsconferencesleibniz-psychologyorgindexphpbigdatabigdata2018schedconfcfp&quot;&gt;&lt;a href=&quot;https://conferences.leibniz-psychology.org/index.php/bigdata/bigdata2018/schedConf/cfp&quot;&gt;A Special Issue of the Zeitschrift für Psychologie&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Guest Editors&lt;/strong&gt;: &lt;a href=&quot;http://mikewlcheung.github.io/&quot;&gt;Mike W.-L. Cheung&lt;/a&gt; and &lt;a href=&quot;http://www.suzannejak.nl/&quot;&gt;Suzanne Jak&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An associated conference will take place at ZPID - &lt;a href=&quot;http://bigdata2018.leibniz-psychology.org&quot;&gt;Leibniz-Institute for Psychology Information in Trier&lt;/a&gt;, Germany, on &lt;strong&gt;June 7-9, 2018&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-of-the-special-issue-aims-and-scope&quot;&gt;Focus of the Special Issue, Aims, and Scope&lt;/h2&gt;
+
+&lt;p&gt;The availability of Big Data is more and more common in many fields including business, computer science, government, social and behavioral sciences, and psychology. Since it is hard to clearly define what Big Data is, we do not impose a strict definition of Big Data in this special issue.&lt;/p&gt;
+
+&lt;p&gt;There are three key characteristics that may qualify data as Big Data, namely Volume, Velocity, and Variety. High-volume data refers to the size of the dataset is too large that may lead to problems with storage and analysis. High-velocity data means that the data come at a high rate and/or have to be processed within a short period of time (e.g., real-time and interactive processing). High-variety data are data consisting of many types of structured and unstructured data with a mix of text, pictures, videos, and numbers. Another characteristic for Big Data is the veracity, which indicates the importance of the quality (or truthfulness) of data. Some examples of Big Data that may be relevant for Psychology are social media data, health/physiological tracker data, geolocation data, dynamic public records, travel route data, behavioral and genetic data. Papers submitted to this special issue may focus on one or more of these features in Big Data.&lt;/p&gt;
+
+&lt;p&gt;The overall aim of this special issue is to address methods and applications using Big Data in Psychology. The topics covered may address (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Methodological and statistical issues in collecting, handling, processing, and analyzing Big Data in psychology.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Applications and illustrations of how Big Data are used to address psychological research questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Psychological interventions making use of Big Data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inference models taking Big Data into account.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Comparison of Big Data versus ´traditional´ data sources (e.g., self-reports, peer-reports, etc.).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combining traditional data sources with Big Data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Implications of Big Data for research infrastructures in psychology and related areas.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-submit&quot;&gt;How to Submit&lt;/h2&gt;
+
+&lt;p&gt;There is a two-stage submissions process. Initially, interested authors are requested to submit extended abstracts of their proposed papers. Authors of the selected abstracts&lt;/p&gt;
+
+&lt;p&gt;will then be invited to submit full papers. All papers will undergo blind peer review.&lt;/p&gt;
+
+&lt;h3 id=&quot;stage-1-structured-abstract-submission&quot;&gt;Stage 1: Structured Abstract Submission&lt;/h3&gt;
+
+&lt;p&gt;Authors interested in this special issue must submit a structured abstract of the planned manuscript before submitting a full paper. The goal is to provide authors with prompt feedback regarding the suitability and relevance of the planned manuscript to the special issue.&lt;/p&gt;
+
+&lt;p&gt;The deadline for submitting structured abstracts is &lt;strong&gt;November 15, 2017&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feedback on whether or not the editors encourage authors to submit a full paper will be given by December 15, 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Submission guidelines for structured abstracts:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Structured abstracts should be within four pages and may encompass information on each of the following headings: (a) Background, (b) Objectives, (c) Research&lt;/p&gt;
+
+&lt;p&gt;question(s) and/or hypothesis/es, (d) Method/Approach, (e) Results/Findings, (f) Conclusions and implications (expected).&lt;/p&gt;
+
+&lt;p&gt;Structured abstracts should be submitted by e-mail to both guest editors at mikewlcheung@nus.edu.sg and S.Jak@uva.nl.&lt;/p&gt;
+
+&lt;p&gt;There will be an international conference on “Big Data in Psychology: Methods and Applications” on June 7-9, 2018 at ZPID - Leibniz-Institute for Psychology Information in Trier, Germany. Authors who are encouraged to submit a full paper will be invited to present their manuscripts at the conference. Further information about the conference can be found here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bigdata2018.leibniz-psychology.org&quot;&gt;http://bigdata2018.leibniz-psychology.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;stage-2-full-paper-submission&quot;&gt;Stage 2: Full Paper Submission&lt;/h3&gt;
+
+&lt;p&gt;For those who have been encouraged to submit a full paper, the deadline for submission of manuscripts is February 28, 2018.&lt;/p&gt;
+
+&lt;p&gt;Full manuscripts will undergo a blind peer-review process.&lt;/p&gt;
+
+&lt;p&gt;Submission guidelines for full papers:&lt;/p&gt;
+
+&lt;p&gt;Maximum 8,500 words (approx. 60,000 characters, including spaces) in 12-point Times New Roman font, formatted in APA style (http://www.apastyle.org/), A4 paper format, 1-inch margins. Figures should be in grayscale only.&lt;/p&gt;
+
+&lt;p&gt;The title page should contain title, authors, and affiliations, including a complete address for correspondence (including e-mail address). An abstract of 150 words or less and a list of up to five keywords should follow the title page.&lt;/p&gt;
+
+&lt;p&gt;On page 3 of the manuscript, repeat the title, but not the names, to permit anonymity during the reviewing process. Please do not include any footnotes at the bottom of the&lt;/p&gt;
+
+&lt;p&gt;pages or at the end of the text.&lt;/p&gt;
+
+&lt;h2 id=&quot;timeline&quot;&gt;Timeline&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;November 15, 2017: Extended abstract submissions due&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;December 15, 2017: Feedback to authors of extended abstracts due&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;February 28, 2018: Full paper submissions due&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;March 15, 2018: Invitation to present at conference in Trier due&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;June 7-9, 2018: International conference on “Big Data in Psychology: Methods and Applications” at the ZPID - Leibniz-Institute for Psychology Information, Trier, Germany. Further information about the event can be found here:
+  &lt;a href=&quot;http://bigdata2018.leibniz-psychology.org&quot;&gt;http://bigdata2018.leibniz-psychology.org&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;July 30, 2018: Feedback to authors of full paper submissions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;October 30, 2018: Revised manuscripts due&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;December 1, 2018: Editorial decision about acceptance/refusal of revised papers due&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2019/2020: Publication of special issue&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-the-journal&quot;&gt;About the Journal&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;The Zeitschrift für Psychologie&lt;/em&gt;, founded in 1890, is the oldest psychology journal in Europe and the second oldest in the world. One of the founding editors was Hermann Ebbinghaus. Since 2007 it is published in English and devoted to publishing topical issues that provide state of- the-art reviews of current research in psychology.
+For detailed author guidelines, please see the journal’s website at &lt;a href=&quot;http://www.hogrefe.com/j/zfp&quot;&gt;http://www.hogrefe.com/j/zfp&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Aug 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/big%20data/call%20for%20papers/conference/2017/08/08/call_for_papers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/big%20data/call%20for%20papers/conference/2017/08/08/call_for_papers.html</guid>
+        
+        
+        <category>big data</category>
+        
+        <category>call for papers</category>
+        
+        <category>conference</category>
+        
+      </item>
     
       <item>
         <title>A paper applying three-level meta-analysis was published in Neuroscience of Consciousness</title>
@@ -170,35 +304,6 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <category>metaSEM package</category>
         
         <category>CRAN</category>
-        
-      </item>
-    
-      <item>
-        <title>The metaSEM package moved to GitHub</title>
-        <description>&lt;p&gt;The development platform of &lt;a href=&quot;https://courses.nus.edu.sg/course/psycwlm/internet/metaSEM/&quot;&gt;metaSEM&lt;/a&gt; has just been migrated from &lt;a href=&quot;http://r-forge.r-project.org/projects/metasem/&quot;&gt;R-forge&lt;/a&gt; to &lt;a href=&quot;https://github.com/mikewlcheung/metasem&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;metaSEM&lt;/code&gt; package can be installed via the &lt;code class=&quot;highlighter-rouge&quot;&gt;devtools&lt;/code&gt; package in &lt;code class=&quot;highlighter-rouge&quot;&gt;R&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    ## Install OpenMx
-    source('http://openmx.psyc.virginia.edu/getOpenMx.R')
-            
-    library(devtools)
-    
-    ## Install metaSEM from GitHub
-    install_github(&quot;mikewlcheung/metasem&quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 10 Apr 2015 18:30:00 +0800</pubDate>
-        <link>http://localhost:4000/r/metasem%20package/github/2015/04/10/metaSEM_github.html</link>
-        <guid isPermaLink="true">http://localhost:4000/r/metasem%20package/github/2015/04/10/metaSEM_github.html</guid>
-        
-        
-        <category>R</category>
-        
-        <category>metaSEM package</category>
-        
-        <category>GitHub</category>
         
       </item>
     
