@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a quantitative psychologist and an associate professor at [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of [National University of Singapore](http://www.nus.edu.sg/) (see [my curriculum vitae](https://courses.nus.edu.sg/course/psycwlm/Internet/mike_CV.pdf)).
+I am a quantitative psychologist and an associate professor at [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of [National University of Singapore](http://www.nus.edu.sg/) (see [my curriculum vitae](https://dl.dropbox.com/u/25182759/mike_CV.pdf)).
 
 **Contact information**:
 
@@ -23,3 +23,4 @@ I am a quantitative psychologist and an associate professor at [Department of Ps
 -   [StackExchange](http://stats.stackexchange.com/users/25367/mike-cheung)
 -   [OpenMx](http://openmx.psyc.virginia.edu/users/mike-cheung/track)
 -   [Meta-analysis resources](http://meta-analysis.ning.com/profile/MikeCheung)
+-   [OSF](https://osf.io/j7fzn/)

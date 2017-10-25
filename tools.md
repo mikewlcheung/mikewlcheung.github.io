@@ -8,7 +8,7 @@ My research tools
 
 ## Open-source software (free as in free speech and in free beer) that I find useful in my work
 
-* Operating system: Linux ([Linux Mint](http://linuxmint.com/) and [Fedora](http://fedoraproject.org/))
+* Operating system: Linux ([Linux Mint](http://linuxmint.com/), [Ubuntu](https://www.ubuntu.com/), and [Fedora](http://fedoraproject.org/))
 * Unix-like environment in Windows: [Cygwin](http://www.cygwin.com/)
 * Statistical environment: [R](http://www.r-project.org/)
     + Structural equation modeling: [OpenMx,](http://openmx.psyc.virginia.edu/) and

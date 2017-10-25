@@ -5,9 +5,27 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2017 14:17:18 +0800</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2017 14:17:18 +0800</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2017 10:41:56 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2017 10:41:56 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>A commentary on meta-analytic structural equation modeling is accepted for publication in Journal of Applied Psychology</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;A paper titled &lt;a href=&quot;https://psyarxiv.com/37p2z&quot;&gt;&lt;em&gt;Issues in Solving the Problem of Effect Size Heterogeneity in Meta-Analytic Structural Equation Modeling: A Commentary and Simulation Study on Yu, Downes, Carter, and O’Boyle (2016)&lt;/em&gt;&lt;/a&gt; is accepted for publication in &lt;em&gt;Journal of Applied Psychology&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 25 Oct 2017 09:00:00 +0800</pubDate>
+        <link>http://localhost:4000/masem/metasem%20package/2017/10/25/inpress4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2017/10/25/inpress4.html</guid>
+        
+        
+        <category>MASEM</category>
+        
+        <category>metaSEM package</category>
+        
+      </item>
     
       <item>
         <title>Call for papers: Big Data in Psychology: Methods and Applications</title>
@@ -283,27 +301,6 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <category>MASEM</category>
         
         <category>metaSEM package</category>
-        
-      </item>
-    
-      <item>
-        <title>The metaSEM package is now available at CRAN</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://courses.nus.edu.sg/course/psycwlm/internet/metaSEM/&quot;&gt;metaSEM&lt;/a&gt; package is now available at &lt;a href=&quot;http://cran.r-project.org/package=metaSEM&quot;&gt;CRAN&lt;/a&gt;. It can be installed by running:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    install.packages(&quot;metaSEM&quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 09 Jun 2015 17:35:00 +0800</pubDate>
-        <link>http://localhost:4000/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</link>
-        <guid isPermaLink="true">http://localhost:4000/r/metasem%20package/cran/2015/06/09/metaSEM_CRAN.html</guid>
-        
-        
-        <category>R</category>
-        
-        <category>metaSEM package</category>
-        
-        <category>CRAN</category>
         
       </item>
     
