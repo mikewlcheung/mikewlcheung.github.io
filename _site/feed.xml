@@ -5,9 +5,30 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Oct 2017 10:41:56 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Oct 2017 10:41:56 +0800</lastBuildDate>
+    <pubDate>Sun, 14 Jan 2018 11:12:55 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Jan 2018 11:12:55 +0800</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>The metaSEM package 1.0.0 is now available at CRAN</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://github.com/mikewlcheung/metasem&quot;&gt;metaSEM&lt;/a&gt; package 1.0.0 is now available at &lt;a href=&quot;http://cran.r-project.org/package=metaSEM&quot;&gt;CRAN&lt;/a&gt;. It can be installed by running:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    install.packages(&quot;metaSEM&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 14 Jan 2018 19:11:00 +0800</pubDate>
+        <link>http://localhost:4000/r/metasem%20package/cran/2018/01/14/metaSEM_CRAN2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/r/metasem%20package/cran/2018/01/14/metaSEM_CRAN2.html</guid>
+        
+        
+        <category>R</category>
+        
+        <category>metaSEM package</category>
+        
+        <category>CRAN</category>
+        
+      </item>
     
       <item>
         <title>A commentary on meta-analytic structural equation modeling is accepted for publication in Journal of Applied Psychology</title>
@@ -278,24 +299,6 @@ modeling (MASEM) will appear in &lt;a href=&quot;http://onlinelibrary.wiley.com/
         <pubDate>Fri, 15 Apr 2016 19:10:00 +0800</pubDate>
         <link>http://localhost:4000/masem/metasem%20package/2016/04/15/inpress2.html</link>
         <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2016/04/15/inpress2.html</guid>
-        
-        
-        <category>MASEM</category>
-        
-        <category>metaSEM package</category>
-        
-      </item>
-    
-      <item>
-        <title>A paper on random-effects MASEM accepted for publication</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;A paper titled &lt;em&gt;Random-Effects Models for Meta-Analytic Structural Equation Modeling: Review, Issues, and Illustrations&lt;/em&gt;, co-authored with &lt;a href=&quot;http://www.umac.mo/fss/psychology/staff_shufai.html&quot;&gt;Shu Fai Cheung&lt;/a&gt;, has been accepted for publication in &lt;a href=&quot;http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1759-2887&quot;&gt;Research Synthesis Methods&lt;/a&gt;. The pre-print version is available &lt;a href=&quot;https://dl.dropboxusercontent.com/u/25182759/Random%20effects%20models%20for%20meta%20analytic%20structural%20equation%20modeling%20Review%20issues%20and%20illustrations.pdf&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 25 Jul 2015 18:36:00 +0800</pubDate>
-        <link>http://localhost:4000/masem/metasem%20package/2015/07/25/inpress1.html</link>
-        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2015/07/25/inpress1.html</guid>
         
         
         <category>MASEM</category>
