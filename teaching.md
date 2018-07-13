@@ -6,10 +6,10 @@ title: My teaching
 My teaching
 ======================
 
-## Current academic year 2017-2018
-* I am on sabbatical leave from Aug to Dec 2017.
+## Current academic year 2018-2019
+* PL2131 Research and Statistical Methods I (undergraduate)
+* PL5221 Analysis of Psychological Data using GLM (postgraduate)
 * PL5222 Multivariate Statistics in Psychology (postgraduate)
-* PL5225 Structural Equation Modeling (postgraduate)
 
 ## Courses taught in previous academic years
 * PL1101E Introduction to Psychology (team teaching)

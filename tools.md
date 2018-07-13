@@ -26,7 +26,7 @@ My research tools
 * Building files automatically: [GNU make](http://www.gnu.org/software/make/)
 * Programming languages: [C](http://gcc.gnu.org/) and [Python](https://www.python.org/)
 * Preparing documents: [LibreOffice](http://www.libreoffice.org/) with [Zotero](http://www.zotero.org/)
-* Editors/IDE: [Atom](https://atom.io/), [Vim](http://www.vim.org/), [Emacs](http://www.gnu.org/software/emacs/), [Jupyter Notebook](http://jupyter.org/), with [ESS](http://ess.r-project.org/), and [Org mode](http://orgmode.org/)
+* Editors/IDE: [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/), [Vim](http://www.vim.org/), [Emacs](http://www.gnu.org/software/emacs/), [Jupyter Notebook](http://jupyter.org/), with [ESS](http://ess.r-project.org/), and [Org mode](http://orgmode.org/)
 
 ## Proprietary software that I occasionally use in my work
 * Statistical packages: [SPSS](http://www-01.ibm.com/software/analytics/spss/), [SAS](http://www.sas.com/), and [Stata](http://www.stata.com/)
