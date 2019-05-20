@@ -5,9 +5,25 @@
     <description></description>
     <link>http://mikewlcheung.github.io/</link>
     <atom:link href="http://mikewlcheung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 May 2019 20:38:07 +0800</pubDate>
-    <lastBuildDate>Sun, 05 May 2019 20:38:07 +0800</lastBuildDate>
+    <pubDate>Mon, 20 May 2019 16:41:07 +0800</pubDate>
+    <lastBuildDate>Mon, 20 May 2019 16:41:07 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Workshops in 2019 summer</title>
+        <description>&lt;h1 id=&quot;workshops&quot;&gt;Workshops&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I will give two workshops on &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/trainingprogram/courses/2019/Multilevel_modeling_R_Cheung_2019.pdf&quot;&gt;Multilevel Modeling with R&lt;/a&gt; on 12-14 June and &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/trainingprogram/courses/2019/Structural_equation_modeling_R_2019.pdf&quot;&gt;Structural Equation Modeling with R&lt;/a&gt; on 24-26 June at &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/trainingprogram/currentcourse.html&quot;&gt;Centre for Family and Population Research, FASS, NUS&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 May 2019 20:00:00 +0800</pubDate>
+        <link>http://mikewlcheung.github.io/schedule/2019/05/20/workshops.html</link>
+        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2019/05/20/workshops.html</guid>
+        
+        
+        <category>schedule</category>
+        
+      </item>
     
       <item>
         <title>Workshops and conference presentations in summer 2018</title>
@@ -288,23 +304,6 @@ For detailed author guidelines, please see the journal’s website at &lt;a href
         <category>three-level meta-analysis</category>
         
         <category>metaSEM package</category>
-        
-      </item>
-    
-      <item>
-        <title>Workshops in 2016 summer</title>
-        <description>&lt;h1 id=&quot;workshops&quot;&gt;Workshops&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;I will give a two-day workshop on &lt;em&gt;analysis of missing data&lt;/em&gt; on 23-24 May 2016 at &lt;a href=&quot;http://lkyspp.nus.edu.sg/&quot;&gt;the Institute of Policy Studies, Lee Kuan Yew School of Public Policy, NUS&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;I will give two three-day workshops on &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/images/Multilevel_modeling_2016.pdf&quot;&gt;Multilevel Modeling with R&lt;/a&gt; on 15-17 June and on &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/images/Structural_Equation_Modeling_2016.pdf&quot;&gt;Structural Equation Modeling with R&lt;/a&gt; on 25-27 June at &lt;a href=&quot;http://www.fas.nus.edu.sg/cfpr/Training%20Program/schedule.html&quot;&gt;Centre for Family and Population Research, FASS, NUS&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 15 Apr 2016 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/schedule/2016/04/15/workshops.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2016/04/15/workshops.html</guid>
-        
-        
-        <category>schedule</category>
         
       </item>
     

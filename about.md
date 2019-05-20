@@ -13,6 +13,7 @@ I am a quantitative psychologist and an associate professor at the [Department o
 -   [Academia](http://nus.academia.edu/MikeCheung)
 -   [GitHub](https://github.com/mikewlcheung)
 -   [Google Scholar](http://scholar.google.com.sg/citations?user=kuTjTlsAAAAJ)
+-   [Linkedin](https://sg.linkedin.com/in/mike-cheung-82154849)
 -   [Loop](http://loop.frontiersin.org/people/8270/overview)
 -   [Mendeley](http://www.mendeley.com/profiles/mike-w-l-cheung/)
 -   [Meta-analysis resources](http://meta-analysis.ning.com/profile/MikeCheung)
