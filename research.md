@@ -13,8 +13,17 @@ My research interests are quantitative methods, especially in the topics of meta
 * A two-day workshop based on my book: [SEM-based meta-analysis](https://courses.nus.edu.sg/course/psycwlm/internet/MASEMworkshop/slides1.html) and [meta-analytic structural equation model (MASEM)](https://courses.nus.edu.sg/course/psycwlm/internet/MASEMworkshop/slides2.html).
 * The [metaSEM](https://cran.r-project.org/package=metaSEM) package, an [R](https://cran.r-project.org/) package conducting meta-analysis with the structural equation modeling approach.
 
-My other research interests are:
+**Some of my presentations**:
+* [Leibniz Institute for Psychology Information (ZPID) Research Synthesis 2018](https://conferences.leibniz-psychology.org/index.php/ressyn/ressyn2018)
+    + [Bridging Meta-Analysis and Standard Statistical Methods](http://dx.doi.org/10.23668/psycharchives.841): [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=zxVXCnj9BqY) and [![PDF slides](../images/pdf.png)](https://www.psycharchives.org/bitstream/20.500.12034/639/1/maSEM.pdf)
+* [Leibniz Institute for Psychology Information (ZPID) Big Data in Psychology 2018](https://conferences.leibniz-psychology.org/index.php/bigdata/bigdata2018)
+    + [Testing Model-Driven Hypotheses with Big Data](https://www.psycharchives.org/handle/20.500.12034/629): [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=uneRpxVGDH4) and [![PDF slides](../images/pdf.png)](https://www.psycharchives.org/bitstream/20.500.12034/629/1/Bigdata.pdf)
+* [Hong Kong Shue Yan University (HKSYU) Institutional Development Scheme](https://ids.hksyu.edu/home)
+    + [Applying evidence-based practice with meta-analysis](https://ids.hksyu.edu/cebp/news-and-events/events/detail/20180228_mike-cheung_lecture): [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=4lEd9ycL1ew) and [![PDF slides](../images/pdf.png)](https://ids.hksyu.edu/assets/event/20180301_mike-cheung-1/ma-revised-.pdf)     
+    + [Establishing evidence-based practice with structural equation modelling](https://ids.hksyu.edu/cebp/news-and-events/events/detail/20180301_mike-cheung_workshop): [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=QuVrUsH7PSo) and [![PDF slides](../images/pdf.png)](https://ids.hksyu.edu/assets/event/20180301_mike-cheung-2/sem-revised-.pdf)  
 
+
+**My other research interests are**:
 * Longitudinal data analysis
 * Mediating and moderating effects
 * Bootstrapping
