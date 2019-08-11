@@ -24,3 +24,5 @@ I am a quantitative psychologist and an associate professor at the [Department o
 -   [ResearchGate](https://www.researchgate.net/profile/Mike_Cheung2)
 -   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7201897549)
 -   [StackExchange](http://stats.stackexchange.com/users/25367/mike-cheung)
+-   [Zotero](https://www.zotero.org/mikewlcheung)
+
