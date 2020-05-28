@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a quantitative psychologist and an associate professor at the [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of the [National University of Singapore](http://www.nus.edu.sg/) (see [my curriculum vitae](https://courses.nus.edu.sg/course/psycwlm/Internet/mike_CV.pdf)).
+I am a quantitative psychologist and an associate professor at the [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of the [National University of Singapore](http://www.nus.edu.sg/) (see [my curriculum vitae](../files/mike_CV.pdf)).
 
 **Contact information**:
 
