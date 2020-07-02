@@ -55,6 +55,7 @@ I am interested in supervising topics in one of the followings areas.
   + Applications of MASEM in applied settings
   + Exploring heterogeneity in MASEM
 * *Background readings*:
+  + Cheung, M. W. (2020). Meta-analytic structural equation modeling. https://doi.org/10.31234/osf.io/epsqt
   + Cheung, M.W.-L. (2019). Some reflections on combining meta-analysis and structural equation modeling. *Research Synthesis Methods*, *10*(1), 15–22. https://doi.org/10.1002/jrsm.1321
   + Cheung, M.W.-L. (2014). Fixed- and random-effects meta-analytic structural equation modeling: Examples and analyses in R. *Behavior Research Methods*, *46*(1), 29–40. https://doi.org/10.3758/s13428-013-0361-y
   + Cheung, M.W.-L., & Chan, W. (2005). Meta-analytic structural equation modeling: A two-stage approach. *Psychological Methods*, *10*(1), 40–64. https://doi.org/10.1037/1082-989X.10.1.40
