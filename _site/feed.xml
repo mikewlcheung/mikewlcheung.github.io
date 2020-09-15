@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Cheung&#39;s website</title>
+    <title>Mike Cheung's website</title>
     <description></description>
-    <link>http://mikewlcheung.github.io/</link>
-    <atom:link href="http://mikewlcheung.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jun 2020 10:46:28 +0800</pubDate>
-    <lastBuildDate>Tue, 09 Jun 2020 10:46:28 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Sep 2020 15:37:21 +0800</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2020 15:37:21 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Workshops in 2019 summer</title>
@@ -17,8 +17,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 20 May 2019 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/schedule/2019/05/20/workshops.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2019/05/20/workshops.html</guid>
+        <link>http://localhost:4000/schedule/2019/05/20/workshops.html</link>
+        <guid isPermaLink="true">http://localhost:4000/schedule/2019/05/20/workshops.html</guid>
         
         
         <category>schedule</category>
@@ -39,8 +39,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 02 Apr 2018 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/schedule/2018/04/02/workshops_presentations.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2018/04/02/workshops_presentations.html</guid>
+        <link>http://localhost:4000/schedule/2018/04/02/workshops_presentations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/schedule/2018/04/02/workshops_presentations.html</guid>
         
         
         <category>schedule</category>
@@ -55,8 +55,8 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 14 Jan 2018 19:11:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/r/metasem%20package/cran/2018/01/14/metaSEM_CRAN2.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/r/metasem%20package/cran/2018/01/14/metaSEM_CRAN2.html</guid>
+        <link>http://localhost:4000/r/metasem%20package/cran/2018/01/14/metaSEM_CRAN2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/r/metasem%20package/cran/2018/01/14/metaSEM_CRAN2.html</guid>
         
         
         <category>R</category>
@@ -75,8 +75,8 @@
 
 </description>
         <pubDate>Wed, 25 Oct 2017 09:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/masem/metasem%20package/2017/10/25/inpress4.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2017/10/25/inpress4.html</guid>
+        <link>http://localhost:4000/masem/metasem%20package/2017/10/25/inpress4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2017/10/25/inpress4.html</guid>
         
         
         <category>MASEM</category>
@@ -207,8 +207,8 @@
 For detailed author guidelines, please see the journal’s website at &lt;a href=&quot;http://www.hogrefe.com/j/zfp&quot;&gt;http://www.hogrefe.com/j/zfp&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 08 Aug 2017 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/big%20data/call%20for%20papers/conference/2017/08/08/call_for_papers.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/big%20data/call%20for%20papers/conference/2017/08/08/call_for_papers.html</guid>
+        <link>http://localhost:4000/big%20data/call%20for%20papers/conference/2017/08/08/call_for_papers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/big%20data/call%20for%20papers/conference/2017/08/08/call_for_papers.html</guid>
         
         
         <category>big data</category>
@@ -227,8 +227,8 @@ For detailed author guidelines, please see the journal’s website at &lt;a href
 
 </description>
         <pubDate>Sat, 29 Apr 2017 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/three-level%20meta-analysis/metasem%20package/2017/04/29/first_online3.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/three-level%20meta-analysis/metasem%20package/2017/04/29/first_online3.html</guid>
+        <link>http://localhost:4000/three-level%20meta-analysis/metasem%20package/2017/04/29/first_online3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/three-level%20meta-analysis/metasem%20package/2017/04/29/first_online3.html</guid>
         
         
         <category>three-level meta-analysis</category>
@@ -245,8 +245,8 @@ For detailed author guidelines, please see the journal’s website at &lt;a href
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 17 Apr 2017 20:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/schedule/2017/04/17/workshops.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/schedule/2017/04/17/workshops.html</guid>
+        <link>http://localhost:4000/schedule/2017/04/17/workshops.html</link>
+        <guid isPermaLink="true">http://localhost:4000/schedule/2017/04/17/workshops.html</guid>
         
         
         <category>schedule</category>
@@ -261,8 +261,8 @@ For detailed author guidelines, please see the journal’s website at &lt;a href
 
 </description>
         <pubDate>Mon, 31 Oct 2016 00:36:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/masem/metasem%20package/2016/10/31/inpress3.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2016/10/31/inpress3.html</guid>
+        <link>http://localhost:4000/masem/metasem%20package/2016/10/31/inpress3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2016/10/31/inpress3.html</guid>
         
         
         <category>MASEM</category>
@@ -279,8 +279,8 @@ For detailed author guidelines, please see the journal’s website at &lt;a href
 
 </description>
         <pubDate>Sat, 15 Oct 2016 19:30:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/masem/metasem%20package/2016/10/15/first_online2.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/masem/metasem%20package/2016/10/15/first_online2.html</guid>
+        <link>http://localhost:4000/masem/metasem%20package/2016/10/15/first_online2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/masem/metasem%20package/2016/10/15/first_online2.html</guid>
         
         
         <category>MASEM</category>
@@ -297,8 +297,8 @@ For detailed author guidelines, please see the journal’s website at &lt;a href
 
 </description>
         <pubDate>Sat, 13 Aug 2016 10:00:00 +0800</pubDate>
-        <link>http://mikewlcheung.github.io/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</link>
-        <guid isPermaLink="true">http://mikewlcheung.github.io/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</guid>
+        <link>http://localhost:4000/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/three-level%20meta-analysis/metasem%20package/2016/08/13/first_online1.html</guid>
         
         
         <category>three-level meta-analysis</category>
