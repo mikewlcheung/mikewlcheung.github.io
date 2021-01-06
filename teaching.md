@@ -20,8 +20,23 @@ My teaching
 * PL5225 Structural Equation Modeling (postgraduate)
 
 ## Thesis topics that I may supervise
-My research area is [quantitative psychology](http://www.apa.org/research/tools/quantitative/index.aspx)--the statistical modeling of psychological data. A related area is [psychometrics](https://www.psychometricsociety.org/content/what-psychometrics). You may get familiar with the area of quantitative psychology by reading a few recent issues in the following journals.
+My research area is [quantitative psychology](http://www.apa.org/research/tools/quantitative/index.aspx)--the statistical modeling of psychological data. A related area is [psychometrics](https://www.psychometricsociety.org/content/what-psychometrics). 
 
+### Sample thesis topics I have supervised
+* Do we know why people stay? A meta-analysis of job embeddedness and turnover
+* Only the hottest need apply: A meta-analysis investigating the effects of lookism on evaluative workplace outcomes
+* A simulation study on the boundary conditions of fitting the Thurstonian IRT model to forced-choice data
+* Meta-analytic structural equation modeling: Advancing theories of cognitive vulnerabilities and depression
+* Determinants of cashless payment adoption: A meta-anaytic structural equation modelling approach
+* What makes them help?: A meta-analysis on factors influencing bystanders behavioural responses in cyberbullying
+* A simulation study of the conversion of effect sizes between correlation and standardized mean difference in meta-analysis
+* Meta-analysis of evidence for the motivation-facilitation model and confluence model of sexual offending
+* A meta-analysis of cognitive behavioural therapy (CBT) for bulimic nervosa (BN) disorder
+* A meta-analysis of emotional labor and burnout
+* Applying nonlinear time-series analysis to psychological data
+* Comparison of treatment efficacy between CBT and exercise intervention for social anxiety disorder: A meta-analytic review
+
+### Journals related to quantitative methods
 * [Behavior Research Methods](http://www.springer.com/psychology/cognitive+psychology/journal/13428)
 * [British Journal of Mathematical and Statistical Psychology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2044-8317)
 * [Educational and Psychological Measurement](http://epm.sagepub.com/)
@@ -34,7 +49,7 @@ My research area is [quantitative psychology](http://www.apa.org/research/tools/
 * [Sociological Methods and Research](http://smr.sagepub.com/)
 * [Structural Equation Modeling: A Multidisciplinary Journal](http://www.tandfonline.com/toc/hsem20/current)
 
-I am interested in supervising topics in one of the followings areas.
+### I am interested in supervising topics in one of the followings areas.
 
 * **Meta-analysis**
   + Fixed- vs. random-effects models
@@ -55,7 +70,7 @@ I am interested in supervising topics in one of the followings areas.
   + Applications of MASEM in applied settings
   + Exploring heterogeneity in MASEM
 * *Background readings*:
-  + Cheung, M. W. (2020). Meta-analytic structural equation modeling. https://doi.org/10.31234/osf.io/epsqt
+  + Cheung, M.W.-L. (2020). Meta-analytic structural equation modeling. https://doi.org/10.31234/osf.io/epsqt
   + Cheung, M.W.-L. (2019). Some reflections on combining meta-analysis and structural equation modeling. *Research Synthesis Methods*, *10*(1), 15–22. https://doi.org/10.1002/jrsm.1321
   + Cheung, M.W.-L. (2014). Fixed- and random-effects meta-analytic structural equation modeling: Examples and analyses in R. *Behavior Research Methods*, *46*(1), 29–40. https://doi.org/10.3758/s13428-013-0361-y
   + Cheung, M.W.-L., & Chan, W. (2005). Meta-analytic structural equation modeling: A two-stage approach. *Psychological Methods*, *10*(1), 40–64. https://doi.org/10.1037/1082-989X.10.1.40
