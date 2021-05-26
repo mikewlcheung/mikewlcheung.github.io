@@ -6,9 +6,9 @@ title: My teaching
 My teaching
 ======================
 
-## Current academic year 2020-2021
-* PL5221 Analysis of Psychological Data using GLM (postgraduate)
-* PL5222 Multivariate Statistics in Psychology (postgraduate)
+## Current academic year 2021-2022
+* PL2132 Research and Statistical Methods II (undergraduate)
+* PL5225 Structural Equation Modeling (postgraduate)
 
 ## Courses taught in previous academic years
 * PL1101E Introduction to Psychology (team teaching)
