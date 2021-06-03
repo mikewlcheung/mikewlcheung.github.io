@@ -34,7 +34,7 @@ My research area is [quantitative psychology](http://www.apa.org/research/tools/
 * A meta-analysis of cognitive behavioural therapy (CBT) for bulimic nervosa (BN) disorder
 * A meta-analysis of emotional labor and burnout
 * Applying nonlinear time-series analysis to psychological data
-* Comparison of treatment efficacy between CBT and exercise intervention for social anxiety disorder: A meta-analytic review
+* A meta-analysis on the treatment efficacy of psychological intervention for social anxiety disorder (SAD)
 
 ### Journals related to quantitative methods
 * [Behavior Research Methods](http://www.springer.com/psychology/cognitive+psychology/journal/13428)
