@@ -11,6 +11,7 @@ I am a quantitative psychologist and a full professor at the [Department of Psyc
 * ![](../images/note.gif) Department of Psychology, Faculty of Arts and Social Sciences, National University of Singapore, Singapore 117570
 * ![](../images/mailbox.gif) mikewlcheung (at) nus.edu.sg
 -   [Academia](http://nus.academia.edu/MikeCheung)
+-   [Faculty Opinions](https://facultyopinions.com/prime/thefaculty/member/1135702)
 -   [GitHub](https://github.com/mikewlcheung)
 -   [Google Scholar](http://scholar.google.com.sg/citations?user=kuTjTlsAAAAJ)
 -   [Linkedin](https://sg.linkedin.com/in/mike-cheung-82154849)
