@@ -8,7 +8,7 @@ My teaching
 
 ## Current academic year 2021-2022
 * PL2132 Research and Statistical Methods II (undergraduate)
-* PL5225 Structural Equation Modeling (postgraduate)
+* PL5222 Multivariate Statistics in Psychology (postgraduate)
 
 ## Courses taught in previous academic years
 * PL1101E Introduction to Psychology (team teaching)
