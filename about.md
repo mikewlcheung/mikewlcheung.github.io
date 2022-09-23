@@ -21,10 +21,10 @@ I am a quantitative psychologist and a full professor at the [Department of Psyc
 -   [ORCID](http://orcid.org/0000-0003-0113-0758)
 -   [OSF](https://osf.io/j7fzn/)
 -   [PsyArXiv](https://psyarxiv.com/discover?q=%22Mike%20Cheung%22)
--   [Publons](https://publons.com/author/794564/mike-w-l-cheung#profile)
 -   [ResearchGate](https://www.researchgate.net/profile/Mike_Cheung2)
 -   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=7201897549)
 -   [StackExchange](http://stats.stackexchange.com/users/25367/mike-cheung)
 -   [Twitter](https://twitter.com/mikewlcheung)
+-   [Web of Science](https://www.webofscience.com/wos/author/record/382463)
 -   [Zotero](https://www.zotero.org/mikewlcheung)
 
