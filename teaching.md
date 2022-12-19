@@ -6,7 +6,7 @@ title: My teaching
 My teaching
 ======================
 
-## Current academic year 2021-2022
+## Current academic year 2022-2023
 * PL2132 Research and Statistical Methods II (undergraduate)
 * PL5222 Multivariate Statistics in Psychology (postgraduate)
 
@@ -59,24 +59,26 @@ My research area is [quantitative psychology](http://www.apa.org/research/tools/
   + Three-level meta-analysis
   + Robust test statistics
 * *Background readings*:
+  + Cheung, M. W.-L. (2023). [Structural equation modeling (SEM)-based meta-analysis](https://psyarxiv.com/93nfr). In R. H. Hoyle (Ed.), *Handbook of Structural Equation Modeling}* (2nd ed.). New York: Guilford Press. 
   + Cheung, M.W.-L. (2018). Computing multivariate effect sizes and their sampling covariance matrices with structural equation modeling: Theory, examples, and computer simulations. *Frontiers in Psychology*, *9*(1387). https://doi.org/10.3389/fpsyg.2018.01387
-  + Cheung, M.W.-L. (2015). metaSEM: an R package for meta-analysis using structural equation modeling. Frontiers in Psychology, 5(1521). https://doi.org/10.3389/fpsyg.2014.01521
+  + Cheung, M.W.-L. (2015). metaSEM: an R package for meta-analysis using structural equation modeling. *Frontiers in Psychology*, 5(1521). https://doi.org/10.3389/fpsyg.2014.01521
   + Cheung, M.W.-L. (2014). Modeling dependent effect sizes with three-level meta-analyses: A structural equation modeling approach. *Psychological Methods*, *19*(2), 211–229. https://doi.org/10.1037/a0032968
   + Cheung, M.W.-L. (2013). Multivariate meta-analysis as structural equation models. *Structural Equation Modeling: A Multidisciplinary Journal*, *20*(3), 429–454. https://doi.org/10.1080/10705511.2013.797827
   + Cheung, M.W.-L. (2008). A model for integrating fixed-, random-, and mixed-effects meta-analyses into structural equation modeling. *Psychological Methods*, *13*(3), 182–202. https://doi.org/10.1037/a0013163
-
+  
 * **Meta-analytic structural equation modeling (MASEM)**
   + Evaluating goodness-of-fit indices in MASEM
   + Applications of MASEM in applied settings
   + Exploring heterogeneity in MASEM
 * *Background readings*:
-  + Cheung, M.W.-L. (2020). Meta-analytic structural equation modeling. https://doi.org/10.31234/osf.io/epsqt
+  + Cheung, M. W.-L. (2021). [Meta-analytic structural equation modeling](https://psyarxiv.com/epsqt/). In *Oxford Research Encyclopedia of Business and Management*. Oxford University Press. https://doi.org/10.1093/acrefore/9780190224851.013.225
   + Cheung, M.W.-L. (2019). Some reflections on combining meta-analysis and structural equation modeling. *Research Synthesis Methods*, *10*(1), 15–22. https://doi.org/10.1002/jrsm.1321
   + Cheung, M.W.-L. (2014). Fixed- and random-effects meta-analytic structural equation modeling: Examples and analyses in R. *Behavior Research Methods*, *46*(1), 29–40. https://doi.org/10.3758/s13428-013-0361-y
   + Cheung, M.W.-L., & Chan, W. (2005). Meta-analytic structural equation modeling: A two-stage approach. *Psychological Methods*, *10*(1), 40–64. https://doi.org/10.1037/1082-989X.10.1.40
   + Cheung, M.W.-L., & Cheung, S. F. (2016). Random-effects models for meta-analytic structural equation modeling: Review, issues, and illustrations. *Research Synthesis Methods*, *7*(2), 140–155. https://doi.org/10.1002/jrsm.1166
   + Cheung, M.W.-L., & Hafdahl, A.R. (2016). Special issue on meta-analytic structural equation modeling: Introduction from the guest editors. *Research Synthesis Methods*, *7*(2), 112–120. https://doi.org/10.1002/jrsm.1212
   + Cheung, M.W.-L., & Hong, R. Y. (2017). Applications of meta-analytic structural equation modelling in health psychology: examples, issues, and recommendations. *Health Psychology Review*, *11*(3), 265–279. https://doi.org/10.1080/17437199.2017.1343678
+  + Valentine, J. C., Cheung, M. W.-L., Smith, E. J., Alexander, O., Hatton, J. M., Hong, R. Y., Huckaby, L. T., Patton, S. C., Pössel, P., & Seely, H. D. (2022). A primer on meta-analytic structural equation modeling: The case of depression. *Prevention Science*, *23*, 346-365. https://doi.org/10.1007/s11121-021-01298-5 
 
 * **Structural equation modeling**
   + Constructing confidence intervals with SEM approach

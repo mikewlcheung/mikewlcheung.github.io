@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About me
-permalink: /about/
 ---
 
-I am a quantitative psychologist and a full professor at the [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of the [National University of Singapore](http://www.nus.edu.sg/) (see [my curriculum vitae](../files/mike_CV.pdf)).
+I am a full professor at the [Department of Psychology](http://www.fas.nus.edu.sg/psy/) of the [National University of Singapore](http://www.nus.edu.sg/). My research area is quantitative methods, including structural equation modeling, meta-analysis, and multilevel modeling. My primary research topic is the integration of meta-analysis and structural equation modeling (see [my curriculum vitae](../files/mike_CV.pdf)).
 
 **Contact information**:
 
