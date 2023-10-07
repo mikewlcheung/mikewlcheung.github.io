@@ -14,6 +14,8 @@ My research interests are quantitative methods, especially in the topics of meta
 * The [metaSEM](https://cran.r-project.org/package=metaSEM) package, an [R](https://cran.r-project.org/) package conducting meta-analysis with the structural equation modeling approach.
 
 **Some of my presentations**:
+* [Evidence Synthesis and Meta-Analysis in R Conference (2023)](https://esmarconf.org/)
+	+ metaSEM tutorial: [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=NCjb8ekoT5g) and [![Github materials](../images/github.png)](https://github.com/mikewlcheung/ESMARConf2023)
 * [Leibniz Institute for Psychology Information (ZPID) Research Synthesis 2018](https://conferences.leibniz-psychology.org/index.php/ressyn/ressyn2018)
     + [Bridging Meta-Analysis and Standard Statistical Methods](http://dx.doi.org/10.23668/psycharchives.841): [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=zxVXCnj9BqY) and [![PDF slides](../images/pdf.png)](https://www.psycharchives.org/bitstream/20.500.12034/639/1/maSEM.pdf)
 * [Leibniz Institute for Psychology Information (ZPID) Big Data in Psychology 2018](https://conferences.leibniz-psychology.org/index.php/bigdata/bigdata2018)
