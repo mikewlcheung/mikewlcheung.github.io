@@ -6,8 +6,8 @@ title: My teaching
 My teaching
 ======================
 
-## Current academic year 2023-2024
-* PL2132 Research and Statistical Methods II (undergraduate)
+## Current academic year 2024-2025
+* PL5225 Structural Equation Modeling (postgraduate)
 
 ## Courses taught in previous academic years
 * PL1101E Introduction to Psychology (team teaching)
