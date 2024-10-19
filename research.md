@@ -13,6 +13,8 @@ My research interests are quantitative methods, especially in the topics of meta
 * The [metaSEM](https://cran.r-project.org/package=metaSEM) package, an [R](https://cran.r-project.org/) package conducting meta-analysis with the structural equation modeling approach.
 
 **Some of my presentations**:
+* [SRMA SIG](https://www.srmasig.org/seminar/2024-25-seminars/)
+	+ Fitting Flexible Meta-Analytic Models with Structural Equation Modeling: [![Video](../images/youtube.png)](https://www.youtube.com/watch?v=dBXnwXGVARs) and [![Preprint](../images/pdf.png)](https://osf.io/preprints/psyarxiv/w9pc6)
 * [2024 ISDSA Meeting online workshop](https://meeting.isdsa.org/)
 	+ Conducting meta-analytic structural equation modeling with R: [![Video](../images/youtube.png)](https://youtu.be/JTikY5Df-Zg) and [![Github materials](../images/github.png)](https://github.com/mikewlcheung/masemWorkshop2024)
 * [Evidence Synthesis and Meta-Analysis in R Conference (2023)](https://esmarconf.org/)
